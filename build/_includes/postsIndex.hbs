@@ -6,9 +6,11 @@
     {{> postHeader this.data url=this.url templateContent=this.templateContent index=true}}
     
     <p>
-      {{ previewText this.templateContent }}… <a href="{{ this.url }}">Read More →</a>
+      {{ previewText this.templateContent }}… <a href="{{ this.url }}" class="read-more">Read More →</a>
     </p>      
   </li>
+  
+  <hr class="post-splitter"/>
   {{/if}}
 {{/each}}
 </ul>

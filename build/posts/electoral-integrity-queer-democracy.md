@@ -3,7 +3,7 @@ layout: layouts/post.hbs
 title: Whose Votes Count? State Demographics and Election Qualities
 author: Dominic Burkart
 date: 2017-01-19
-cover_image_url:
+cover_image_url: /content/images/2017/03/MR_chart.jpeg
 cover_image_alt:
 tags:
 
@@ -15,10 +15,10 @@ To understand the quality of elections, the EIP collected surveys from 726 exper
 
 Using the data from the EIP report, I began exploring various public data sources to understand what factors are important when considering electoral integrity. I settled on data from the [American Community Survey and the US Census](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml). I also used data from a [2013 Williamson/Gallup poll on LGBT identification]( http://www.lgbtmap.org/equality-maps/lgbt_populations).
 
-######Electoral Integrity Project State Democracy Ranking
+###### Electoral Integrity Project State Democracy Ranking
 <iframe width="100%" height="520" frameborder="0" src="https://juliafredenburg.carto.com/viz/809f6e9a-de60-11e6-b2d6-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-###Demographics
+### Demographics
 
 While looking through various demographics collected by these organizations, I found four important factors: total state population, economic disparity, net international migration, and solely white population. 
 
@@ -55,7 +55,7 @@ An intuitive interpretation of this data suggests that democracy is easy when al
 
 ------
 
-###LGBT Population and Democracy
+### LGBT Population and Democracy
 While considering urban areas, I wondered if non-heteronormative populations– which exist in higher proportions in cities– might be a useful predictor for understanding electoral quality. Hypothesizing that queerness may exist in more democratic environments, I attempted to add the percentage of participants who identified as LGBT from a 2013 federal poll by Gallup and the Williamson Institute– the most robust measure of national non-heteronormative population density I am aware of– to the model. However, its inclusion decreased the effectiveness of our model (F(18, 31)= 1.41, p = 0.22, R^2 = 0.21). No relationship exists between electoral integrity and LGBT identification– there is no clear connection between democracy and queerness.
 
 --------

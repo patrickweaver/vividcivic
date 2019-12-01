@@ -3,15 +3,15 @@ layout: layouts/post.hbs
 title: How the Democrats can win in 2020 (and every election after) by flipping one state
 author: Patrick Weaver
 date: 2017-01-18
-cover_image_url:
-cover_image_alt:
+cover_image_url: /content/images/2017/02/Drift-08-16.png
+cover_image_alt: A picture of the United States with states colored by their drift over previous elections.
 tags:
 
 ---
 
 Until election night, [most](http://www.politico.com/2016-election/swing-states) [of](http://fivethirtyeight.com/features/almost-every-swing-state-is-a-must-win-for-trump-now/) [the](https://www.washingtonpost.com/national/fifteen-states-that-will-decide-the-election/2016/11/05/13475c90-a13e-11e6-8832-23a007c77bb4_story.html?utm_term=.390a967f36d5) (left leaning) [coverage](http://www.latimes.com/projects/la-na-pol-battleground-state-cheat-sheet/) of the 2016 presidential election focused on a small group of 9 to 16 "swing states". Conventional wisdom says that swing states are states where there is a thin margin in the polls, and enough undecided or swayable voters to swing the state toward either candidate.
 
-###Polls and Advertising
+### Polls and Advertising
 Framing the election this way creates erratic trends seen in election forecasts. Small shifts in polls seen across several swing states can cause severe shifts in national forecasts. In 2016, [FiveThirtyEight’s forecast](https://projects.fivethirtyeight.com/2016-election-forecast/) shifted Hillary Clinton’s chance of winning from 51% on July 31 to 88% on August 8, a little over a week later.
 
 Taking a closer look at results from past presidential elections shows that the concept of swing states may be a misnomer. Looking at 2016 results in the context of past elections shows that it would be wise for Democrats to abandon the swing state logic and look for more effective ways to get to 270 electoral votes. Few true swing states exist, and focusing on states which are truly shifting to left is a way for Democrats to win in 2020 and beyond.
@@ -21,14 +21,14 @@ Along with the media focus on swing states, the presidential campaigns themselve
 
 The Clinton campaign’s TV ad spending was greater than Trump’s, but Trump’s reveals more of his campaign’s intentions and perceived paths to an electoral college victory. The Trump campaign’s TV ad spending makes it clear that they didn’t think he could win Michigan (he did), and that they thought he had a chance in Colorado and Virginia (he didn’t).
 
-###Swing and Drift
+### Swing and Drift
 Taking a step back from the media definition of swing state that puts the label on any state with a close race, there are only 4 states that in the last 7 presidential elections since 1992 that have voted for each party at least 3 times.
 
 ![](/content/images/2017/02/Colorado-Virginia.png)
 
 Looking at these 4 states shows two distinct stories. Colorado and Virginia that are drifting from the Republican party to the Democratic party, while Florida and Ohio are the only true swing states that regularly shift support from one party to the other.
 
-######*Democratic % change from previous election year* 
+###### *Democratic % change from previous election year* 
 
 <iframe width="100%" height="1060px" frameborder="0" src="http://juliafredenburg.github.io/table/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
@@ -42,7 +42,7 @@ Both Colorado and Virginia voted Republican in 1996, 2000, and 2004, then voted 
 
 The split between swing states that switch back and forth, and drift states that seem like they have made a stable shift from one party to the other shows an effective strategy for compounding election success. As the Democrats have succeeded in flipping Colorado and Virginia, the Trump campaign's success in the Rust Belt will carry into future elections. The 3 "recount" states that decided the 2016 election, Michigan, Pennsylvania, and Wisconsin, had not voted Republican since the 1980s, but have all drifted towards the Republican party steadily since 2008.
 
-###Texas
+### Texas
 
 The polarization that many people feel when looking at election results is real in many ways. For the most part, states that voted for Hillary Clinton in 2016 have drifted towards the Democratic party since 2008, while states that voted for Donald Trump in 2016 have drifted towards the Republican party. There are a few states though that could tip the 2020 election, the most important one is Texas.
 
