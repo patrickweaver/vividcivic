@@ -1,2 +1,1 @@
-# vividcivic
-vividcivic.com
+# Vivid Civic
