@@ -32,7 +32,11 @@ module.exports = function(eleventyConfig) {
       'md',
       'css',
       'hbs',
-      'njk'
+      'njk',
+      'jpeg',
+      'jpg',
+      'png',
+      'gif'
     ]
   }
 };
