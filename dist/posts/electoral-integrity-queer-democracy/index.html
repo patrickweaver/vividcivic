@@ -3,7 +3,7 @@
   <head>
     <title>Vivid Civic</title>
     <meta name="description" content="Vivid Civic">
-    <link id="favicon" rel="icon" href="https://cdn.glitch.com/d8a6ddb0-ed72-4645-8e34-43cc07e3bc57%2Fpw20.png?v=1573008096924" type="image/png">
+    <link id="favicon" rel="icon" href="/content/images/2017/03/Vivid-Civic-Logo-v4.png" type="image/png">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,9 +24,12 @@
     
     <link rel="stylesheet" href="/style.css">
   </head>  <body>
-    <h1 id="site-title">
-      <a href="/">Vivid Civic</a>
-    </h1>
+    
+    <div id="header-container">
+      <h1 id="site-title">
+        <a href="/">Vivid Civic</a>
+      </h1>
+    </div>
     
     <ul id="menu">
       <li><a href="/about">About</a></li>
@@ -36,24 +39,33 @@
       <li><a href="https://www.facebook.com/vividcivic" target="_blank">Facebook</a></li>
       <li><a href="/feed">Subscribe</a></li>
     </ul>
+    
+    <hr/>
     <div class="post">
       
-      <h3>
-        <a href="">
-            Whose Votes Count? State Demographics and Election Qualities
-        </a>
-      </h3>
+      <div class="post-header">
+        
       
+        <h3 class="post-title">
+          <a href="">
+              Whose Votes Count? State Demographics and Election Qualities
+          </a>
+        </h3>
+        <div class="author-date">
+          Dominic Burkart | January 19, 2017
+        </div>
       
-      <p>
-        January 18, 2017
-      </p>      
+          <a href="">
+            <img class="post-cover-image" src="/content/images/2017/03/MR_chart.jpeg" alt="" />
+          </a>
+        
+      </div>      
       <p>At the end of 2016, the <a href="https://www.electoralintegrityproject.com/">Electoral Integrity Project</a>, an organization run by Dr. Pippa Norris, released a report which scores the quality of each state's elections. The purpose of the study is to inform researchers and other interested parties how democratic each state is– how well government policies reflect public beliefs and values.</p>
 <p>To understand the quality of elections, the EIP collected surveys from 726 experts on a variety of topics, including electoral laws, ease of voter registration, and balloting facility characteristics by state. From their <a href="https://dataverse.harvard.edu/file.xhtml?fileId=2965378&amp;version=1.0">49 question survey</a>, the EIP constructed the standardized Perceptions of Electoral Integrity (PEI) Index and calculated it for each state during the month after the 2016 US Presidential Election.</p>
 <p>Using the data from the EIP report, I began exploring various public data sources to understand what factors are important when considering electoral integrity. I settled on data from the <a href="https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml">American Community Survey and the US Census</a>. I also used data from a <a href="http://www.lgbtmap.org/equality-maps/lgbt_populations">2013 Williamson/Gallup poll on LGBT identification</a>.</p>
-<p>######Electoral Integrity Project State Democracy Ranking</p>
+<h6>Electoral Integrity Project State Democracy Ranking</h6>
 <iframe width="100%" height="520" frameborder="0" src="https://juliafredenburg.carto.com/viz/809f6e9a-de60-11e6-b2d6-0ecd1babdde5/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-<p>###Demographics</p>
+<h3>Demographics</h3>
 <p>While looking through various demographics collected by these organizations, I found four important factors: total state population, economic disparity, net international migration, and solely white population.</p>
 <p>Total state population is the estimated population of each state in 2015.
 Economic disparity, defined by a measure called the GINI index, is how exponential the difference in wealth between citizens of a state is. Larger numbers indicate more extreme differences between poorer and richer citizens.</p>
@@ -77,8 +89,8 @@ Economic disparity, defined by a measure called the GINI index, is how exponenti
 <p>Density is what combats the general trends towards less effective elections in states with larger populations.</p>
 </blockquote>
 <hr>
-<p>###LGBT Population and Democracy
-While considering urban areas, I wondered if non-heteronormative populations– which exist in higher proportions in cities– might be a useful predictor for understanding electoral quality. Hypothesizing that queerness may exist in more democratic environments, I attempted to add the percentage of participants who identified as LGBT from a 2013 federal poll by Gallup and the Williamson Institute– the most robust measure of national non-heteronormative population density I am aware of– to the model. However, its inclusion decreased the effectiveness of our model (F(18, 31)= 1.41, p = 0.22, R^2 = 0.21). No relationship exists between electoral integrity and LGBT identification– there is no clear connection between democracy and queerness.</p>
+<h3>LGBT Population and Democracy</h3>
+<p>While considering urban areas, I wondered if non-heteronormative populations– which exist in higher proportions in cities– might be a useful predictor for understanding electoral quality. Hypothesizing that queerness may exist in more democratic environments, I attempted to add the percentage of participants who identified as LGBT from a 2013 federal poll by Gallup and the Williamson Institute– the most robust measure of national non-heteronormative population density I am aware of– to the model. However, its inclusion decreased the effectiveness of our model (F(18, 31)= 1.41, p = 0.22, R^2 = 0.21). No relationship exists between electoral integrity and LGBT identification– there is no clear connection between democracy and queerness.</p>
 <hr>
 <blockquote>
 <p>There is no clear connection between democracy and queerness.</p>

@@ -3,7 +3,7 @@ layout: layouts/post.hbs
 title: Sanctuary Cities and Federal Funding
 author: Julia Fredenburg
 date: 2017-01-14
-cover_image_url:
+cover_image_url: /content/images/2017/03/nyc.jpg
 cover_image_alt:
 tags:
 
@@ -41,7 +41,7 @@ Can the president-elect actually take away all federal grants? Supreme Court rul
 
 Cities have an incredible power within their boundaries. The way that we think about cities has changed over time. Voters have shown they are willing to pay for projects that are important to them, and can have control over their futures. Cities are self sufficient in many ways, and have the flexibility to be innovative and risky. New York, Los Angeles, Seattle, Philadelphia, Minneapolis, and San Francisco have the financial and population power to stand up for rights of immigrants and refuse grants with unreasonable strings attached. 
 
-###What are Sanctuary cities?
+### What are Sanctuary cities?
 <br>
 Sanctuary cities (and counties) limit their cooperation with federal immigration law enforcement. There is no one definition for a sanctuary city, but oftentimes sanctuary cities will prohibit the use of municipal resources to enforce federal immigration laws. Sanctuary cities often prohibit local law enforcement from inquiring about a person’s immigration status. Local law enforcement will not cooperate with US Immigration and Customs Enforcement (ICE) request to detain individuals. 
 
