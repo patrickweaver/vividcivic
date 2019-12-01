@@ -6,7 +6,8 @@ date: 2017-01-19
 cover_image_url: /content/images/2017/03/MR_chart.jpeg
 cover_image_alt:
 tags:
-
+  - posts
+  
 ---
 
 At the end of 2016, the [Electoral Integrity Project](https://www.electoralintegrityproject.com/), an organization run by Dr. Pippa Norris, released a report which scores the quality of each state's elections. The purpose of the study is to inform researchers and other interested parties how democratic each state is– how well government policies reflect public beliefs and values.

@@ -6,6 +6,7 @@ date: 2017-01-22
 cover_image_url: /content/images/2017/01/1_21_17__canon52-2.jpeg
 cover_image_alt:
 tags:
+  - posts
 
 ---
 
