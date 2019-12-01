@@ -6,6 +6,7 @@ date: 2017-01-18
 cover_image_url: /content/images/2017/02/Drift-08-16.png
 cover_image_alt: A picture of the United States with states colored by their drift over previous elections.
 tags:
+  - posts
 
 ---
 

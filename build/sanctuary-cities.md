@@ -6,7 +6,8 @@ date: 2017-01-14
 cover_image_url: /content/images/2017/03/nyc.jpg
 cover_image_alt:
 tags:
-
+  - posts
+  
 ---
 
 <a href="http://juliafredenburg.com/">![](/content/images/2017/03/nyc.jpg)</a>
