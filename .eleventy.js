@@ -26,7 +26,7 @@ module.exports = function(eleventyConfig) {
   return {
     dir: {
       input: "build",
-      output: "dist"
+      output: "docs"
     },
     templateFormats: [
       'md',
