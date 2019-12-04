@@ -31,7 +31,7 @@ Looking at these 4 states shows two distinct stories. Colorado and Virginia that
 
 ###### *Democratic % change from previous election year* 
 
-<iframe width="100%" height="1060px" frameborder="0" src="http://juliafredenburg.github.io/table/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="1060px" frameborder="0" src="https://juliafredenburg.github.io/table/index.html" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 The algorithm for determining the winner in Florida and Ohio in elections since 1996 is actually very simple. If there is a sitting president on the ballot, both states will vote for them; if there is not a sitting president on the ballot both states will vote for the opposite party of the sitting president. While this trend does not bode well for Democrats in 2020, looking at the "drift" states shows a more optimistic picture.
 
