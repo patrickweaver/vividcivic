@@ -62,6 +62,9 @@ typings/
 
 .DS_Store
 
+# Dist
+/dist
+
 # Keys:
 gh-pages
 gh-pages.pub
