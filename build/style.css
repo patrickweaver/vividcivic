@@ -15,7 +15,6 @@ body {
 }
 
 a, a:active, a:visited {
-  text-decoration: none;
   color: black;
 }
 
